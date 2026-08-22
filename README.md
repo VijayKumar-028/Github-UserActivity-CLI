@@ -116,5 +116,6 @@ A Python CLI tool that fetches and displays recent GitHub user activity using th
 __pycache__/
 *.pyc
 ```
+## Project URL
 
-https://github.com/VijayKumar-028/Github-UserActivity-CLI/
+[GitHub Repository](https://github.com/VijayKumar-028/github-activity-cli)
