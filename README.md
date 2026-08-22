@@ -116,8 +116,6 @@ A Python CLI tool that fetches and displays recent GitHub user activity using th
 __pycache__/
 *.pyc
 ```
-## Project URL
 
-https://roadmap.sh/projects/github-user-activity
 
 
