@@ -118,4 +118,6 @@ __pycache__/
 ```
 ## Project URL
 
-[GitHub Repository](https://github.com/VijayKumar-028/github-activity-cli)
+https://roadmap.sh/projects/github-user-activity
+
+
