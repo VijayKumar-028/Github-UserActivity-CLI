@@ -4,6 +4,7 @@ from urllib import request
 from urllib.error import HTTPError, URLError
 
 
+#fetching the events through the URL
 def fetch_events(username):
     url = f"https://api.github.com/users/{username}/events"
 
